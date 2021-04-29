@@ -1,0 +1,11 @@
+{
+  "List": {
+    "title": "string",
+    "category": "int",
+    "items": "Item[]",
+  },
+  "Item":{
+    "id" : "int",
+    "listitem" : "string"
+  }
+}
