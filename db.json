@@ -1,36 +1,33 @@
-{ 
-  "List1": [
-  {
-    "title":"Christmas WishList",
-    "category": "Christmas",
-    "items": [
-      { "itemNum": 1,
-        "itemText" : "Mac Computer"
-      },
-       { "itemNum": 2,
-        "itemText" : "Puma Shoes"
-        },
-        { "itemNum": 3,
-        "itemText" : "Web Development Book"
-        }
-      ]
-  }
-  ],
-  "List2": [
+ [
     {
-    "title":"Christmas WishList2",
-    "category": "Christmas",
-    "items": [
-      { "itemNum": 1,
-        "itemText" : "Mac Computer"
-      },
-       { "itemNum": 2,
-        "itemText" : "Puma Shoes"
+      "title":"Christmas WishList",
+      "category": "Christmas",
+      "items": [
+        { "itemNum": 1,
+          "itemText" : "Mac Computer"
         },
-        { "itemNum": 3,
-        "itemText" : "Web Development Book"
-        }
-      ]
-  }
-]
-}
+         { "itemNum": 2,
+          "itemText" : "Puma Shoes"
+          },
+          { "itemNum": 3,
+          "itemText" : "Web Development Book"
+          }
+        ]
+    },
+      {
+      "title":"Christmas WishList2",
+      "category": "Christmas",
+      "items": [
+        { "itemNum": 1,
+          "itemText" : "Mac Computer 2"
+        },
+         { "itemNum": 2,
+          "itemText" : "Puma Shoes"
+          },
+          { "itemNum": 3,
+          "itemText" : "Web Development Book"
+          }
+        ]
+    }
+  ]
+ 
