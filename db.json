@@ -1,6 +1,7 @@
 
 { 
   "List": [
+    {
     "title":"Christmas WishList",
     "category": "Christmas",
     "items": [
@@ -15,4 +16,5 @@
         }
       ]
   ]
+  }
 }
