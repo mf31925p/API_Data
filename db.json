@@ -15,7 +15,8 @@
         "itemText" : "Web Development Book"
         }
       ]
-  },
+  },  
+  "List": 
       {
     "title":"Grocery List",
     "category": "Food",
