@@ -1,0 +1,18 @@
+
+{ 
+  "List": {
+    "title":"Christmas WishList",
+    "category": "Christmas",
+    "items": [
+      { "itemNum": 1,
+        "itemText" : "Mac Computer"
+      },
+       { "itemNum": 2,
+        "itemText" : "Puma Shoes"
+        },
+        { "itemNum": 3,
+        "itemText" : "Web Development Book"
+        }
+      ]
+  }
+}
