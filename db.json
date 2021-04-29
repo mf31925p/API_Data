@@ -1,6 +1,6 @@
 
 { 
-  "List": {
+  "List": [
     "title":"Christmas WishList",
     "category": "Christmas",
     "items": [
@@ -14,5 +14,5 @@
         "itemText" : "Web Development Book"
         }
       ]
-  }
+  ]
 }
